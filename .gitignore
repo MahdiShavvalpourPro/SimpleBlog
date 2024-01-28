@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SimpleBlog/obj/Debug/net7.0/staticwebassets
+/SimpleBlog/bin/Debug/net7.0
+/SimpleBlog/obj
+/SimpleBlog.Domain/bin/Debug/net7.0
+/SimpleBlog.Domain/obj
+/SimpleBlog.Infrastructure/bin/Debug/net7.0
+/SimpleBlog.Infrastructure/obj/Debug/net7.0
+/SimpleBlog.Infrastructure/obj
